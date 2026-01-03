@@ -37,8 +37,51 @@
 - **Committee Member** (Judo Club)
 
 ### Kolej Islam Sultan Alah Shah
-- **Prefect** (Special Duties Exco)
+- **Special Duties Exco** (Prefect)
 - **Committee Member** (Handball Club)
 - **Committee Member** (Pengakap)
 - **Committee Member** (Young Sports Leaders Club)
+ 
+### Sekolah Menengah Kebangsaan Agama Tun Rahah 
+- **Secretary** (Peer)
+  
+---
+## Skills 
+---
+- C++ - Basic
+- Git / GitHub - Basic
+- Microsoft Office - Word , Powerpoint
+- Capcut
+- Canva
+
+### Soft Skills
+- Teamwork
+- Decision Making
+- Public Speaking
+- Communication
+- Leadership
+- Problem-solving & Critical Thinking
+
+### Languages
+- Malay - Native
+- English - Fluent
+
+---
+## Courses
+---
+### 1 / SERCH
+#### Semester 1
+SECP1513 | Technology and Information System
+SECJ1013 | Programming Technique I
+SECR1013 | Digital Logic 
+SECI1013 | Discrete Structure
+ULRS1032 | Integrity and Anti-Corruption 
+
+---
+
+## Certificate 
+-
+---
+## Project 
+---
 
