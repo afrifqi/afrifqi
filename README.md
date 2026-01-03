@@ -71,14 +71,29 @@
 ---
 ### 1 / SERCH
 #### Semester 1
+---
+<p>
+<a href="https://github.com/afrifqi/SECP1513-Technology--and--Information-System" target="_blank">
 SECP1513 | Technology and Information System
+</a>
+</p>
+<p>
 SECJ1013 | Programming Technique I
-SECR1013 | Digital Logic 
-SECI1013 | Discrete Structure
-ULRS1032 | Integrity and Anti-Corruption 
+</p>
+
+<p>
+  SECR1013 | Digital Logic 
+</p>
+<p>
+  SECI1013 | Discrete Structure
+</p>
+<p>
+  ULRS1032 | Integrity and Anti-Corruption 
+</p>
+
 
 ---
-
+---
 ## Certificate 
 -
 ---
