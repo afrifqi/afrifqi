@@ -95,8 +95,30 @@ SECJ1013 | Programming Technique I
 ---
 ---
 ## Certificate 
--
+- **Kuiz Kimia Kebangsaan** (Participant)
+- **DIGITAL COMPETENCY SCORE** (Participant)
+- **Kejohanan Hoki (Menengah) Peringkat Daerah Klang 2022** (Participant)
+- **Kejohanan Hoki (Menengah) Sekolah Berasrama Penuh (SBP) Peringkat Kebangsaan 2022** (Participant)
+- **Kejohanan Hoki (Menengah) Peringkat Daerah Klang 2023** (Participant)
+- **Kejohanan Bola Keranjang Sekolah Berasrama Penuh (SBP) Peringkat Kebangsaan 2023** (Committee Member)
+- **Prefect Session 22/23**
+- **SUSKOM Volleyball Place No.2** (Participant)
+- **Neon Run** (Finisher)
+- **Larian Kemerdekaan Kali-68** (Finisher)
+---
+
+## Award
+- **HPNG 4.00 UPU Science Foundation Programme Final Exam Semester 1**
+- **HPNG 4.00 UPU Science Foundation Programme Final Exam Semester 2**
 ---
 ## Project 
+- **Project Design Thinking**
+- **Project Digital Logic**
+- **Science Project 2022**
+- **The Truth About Heart Attack** (Biology Project)
+- **Biodiversity Awareness** (Biology Project)
+- **Biology Mini Project** (Biology Project)
+- **Problem Solving Skill** (Physics Project)
+- **Project Research : Flatalance** (Chemistry Project)
 ---
 
