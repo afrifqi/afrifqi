@@ -124,8 +124,10 @@ SECJ1013 | Programming Technique I
 ## 📞 Contact
 ---
 <p> 
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBptCNxncSlJXvBspbgsgTBhgcmDfhjWgQrvnlWStdQCDQcGHJgTrVMSvZhzZPlssnJvkTq" target="_blank">
+Email Me /afifrifqi2006@gmail.com
+ </a> 
 
-Email me : [afifrifqi2006@gmail.com](mailto:afifrifqi2006@gmail.com)
 </p>
 
 <a href="https://www.linkedin.com/in/afif-rifqi-031419392" target="_blank">
