@@ -121,4 +121,15 @@ SECJ1013 | Programming Technique I
 - **Problem Solving Skill** (Physics Project)
 - **Project Research : Flatalance** (Chemistry Project)
 ---
+## 📞 Contact
+---
+<p> 
 
+Email me : [afifrifqi2006@gmail.com](mailto:afifrifqi2006@gmail.com)
+</p>
+
+<a href="https://www.linkedin.com/in/afif-rifqi-031419392" target="_blank">
+    Visit my LinkedIn
+</a>
+
+---
