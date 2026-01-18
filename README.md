@@ -1,10 +1,10 @@
-# HI , I'm Afif 
+# 👋 HI , I'm Afif 
 
 ## About me 
 ----
 - First - year Bachelor of Computer Science (Network and Security Computer ) with Honour student at UTM
 - Int
-## Education 
+## 🎓Education 
 ---
 ### Universiti Teknologi Malaysia (UTM)
 - Bachelor of Computer Science (Network and Security Computer ) with Honours
@@ -23,7 +23,7 @@
 - SPM : 2A+ 4A 2A- 2B+
 - PAJSK = 8.17 (A)
 ---
-## Position 
+## 🧑‍💼 Position 
 ---
 ### Universiti Teknologi Malaysia (UTM)
 - **Active Member** (Global Buddies)
@@ -46,7 +46,7 @@
 - **Secretary** (Peer)
   
 ---
-## Skills 
+## 🛠️ Skills 
 ---
 - C++ - Basic
 - Git / GitHub - Basic
@@ -67,7 +67,7 @@
 - English - Fluent
 
 ---
-## Courses
+## 📖 Courses
 ---
 ### 1 / SERCH
 #### Semester 1
@@ -107,11 +107,11 @@ SECJ1013 | Programming Technique I
 - **Larian Kemerdekaan Kali-68** (Finisher)
 ---
 
-## Award
+##🏆 Award
 - **HPNG 4.00 UPU Science Foundation Programme Final Exam Semester 1**
 - **HPNG 4.00 UPU Science Foundation Programme Final Exam Semester 2**
 ---
-## Project 
+## 📁 Project 
 - **Project Design Thinking**
 - **Project Digital Logic**
 - **Science Project 2022**
