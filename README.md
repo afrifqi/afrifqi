@@ -1,9 +1,13 @@
-# 👋 HI , I'm Afif 
+# 👋 HI , I'm Afif Rifqi Bin Shaiful Rezal
 
 ## About me 
 ----
-- First - year Bachelor of Computer Science (Network and Security Computer ) with Honour student at UTM
-- Int
+- 🎓First - year Bachelor of Computer Science (Computer Network and Security ) with Honour student at UTM
+- 🌍I'm based on Selangor , Malysia
+-📚 You can contact me at afifrifqi2006@gmail.com
+- 🫀 I learned biology subject from highschool to foundation before , currently continue my studies on computer science .
+- ⚽Enjoy indoor/outdoor sports and video games during free time.
+- 🚀Aspires to become good cybersecurity and work at National Cyber Security Agency Malaysia (NASCA).
 ## 🎓Education 
 ---
 ### Universiti Teknologi Malaysia (UTM)
